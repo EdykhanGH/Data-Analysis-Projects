@@ -1,0 +1,20 @@
+store_id,date,order_id,product_category,product_name,quantity_sold,revenue,customer_id,marketing_channel,store_plan,revenue_per_unit,month,year,day_of_year,week,revenue_group
+1,2023-01-05,1,Fashion,Ankara Dress,2,8000,C001,Social Media,Basic,4000.0,January,2023,5,1,low
+2,2023-01-10,2,Fashion,Men's T-shirt,1,3500,C002,Search,Basic,3500.0,January,2023,10,2,low
+3,2023-01-12,3,Electronics,Smartphone,1,120000,C003,Referral,Premium,120000.0,January,2023,12,2,high
+4,2023-01-15,4,Food,Plantain Chips,5,2500,C004,Social Media,Free,500.0,January,2023,15,3,low
+5,2023-01-18,5,Beauty,Lipstick,3,4500,C005,Search,Basic,1500.0,January,2023,18,3,low
+6,2023-01-20,6,Home Decor,Throw Pillows,2,5000,C006,Referral,Premium,2500.0,January,2023,20,3,low
+7,2023-01-22,7,Books,Novel,1,1500,C007,Social Media,Free,1500.0,January,2023,22,4,low
+8,2023-01-25,8,Fashion,Jeans,1,7000,C008,Search,Basic,7000.0,January,2023,25,4,low
+9,2023-01-28,9,Electronics,Bluetooth Speaker,1,10000,C009,Referral,Premium,10000.0,January,2023,28,4,low
+10,2023-01-30,10,Food,Coffee Beans,1,2000,C010,Social Media,Free,2000.0,January,2023,30,5,low
+11,2023-02-02,11,Beauty,Face Cream,2,6000,C011,Search,Basic,3000.0,February,2023,33,5,low
+12,2023-02-05,12,Home Decor,Wall Art,1,8000,C012,Referral,Premium,8000.0,February,2023,36,6,low
+13,2023-02-08,13,Books,Cookbook,1,2500,C013,Social Media,Free,2500.0,February,2023,39,6,low
+14,2023-02-10,14,Fashion,Skirt,1,4000,C014,Search,Basic,4000.0,February,2023,41,6,low
+15,2023-02-12,15,Electronics,Headphones,1,15000,C015,Referral,Premium,15000.0,February,2023,43,7,medium
+16,2023-02-15,16,Food,Dried Fruit,3,3000,C016,Social Media,Free,1000.0,February,2023,46,7,low
+17,2023-03-20,17,Fashion,Sneakers,1,18000,C148,Search,Premium,18000.0,March,2023,79,12,medium
+18,2023-03-25,18,Beauty,Perfume,3,15000,C149,Social Media,Basic,5000.0,March,2023,84,12,medium
+19,2023-03-28,19,Home Decor,Wall Art,2,12000,C150,Referral,Free,6000.0,March,2023,87,13,medium
