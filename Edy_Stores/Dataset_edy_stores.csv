@@ -1,0 +1,108 @@
+store_id,date,order_id,product_category,product_name,quantity_sold,revenue,customer_id,marketing_channel,store_plan
+1,2023-01-05,44,Fashion,Ankara Dress,2,8000,C001,Social Media,Basic
+1,2023-01-10,34,Fashion,Men's T-shirt,1,3500,C002,Search,Basic
+2,2023-01-12,26,Electronics,Smartphone,1,120000,C003,Referral,Premium
+3,2023-01-15,40,Food,Plantain Chips,5,2500,C004,Social Media,Free
+4,2023-01-18,50,Beauty,Lipstick,3,4500,C005,Search,Basic
+5,2023-01-20,13,Home Decor,Throw Pillows,2,5000,C006,Referral,Premium
+6,2023-01-22,40,Books,Novel,1,1500,C007,Social Media,Free
+7,2023-01-25,47,Fashion,Jeans,1,7000,C008,Search,Basic
+8,2023-01-28,33,Electronics,Bluetooth Speaker,1,10000,C009,Referral,Premium
+9,2023-01-30,7,Food,Coffee Beans,1,2000,C010,Social Media,Free
+10,2023-02-02,49,Beauty,Face Cream,2,6000,C011,Search,Basic
+11,2023-02-05,29,Home Decor,Wall Art,1,8000,C012,Referral,Premium
+12,2023-02-08,25,Books,Cookbook,1,2500,C013,Social Media,Free
+13,2023-02-10,21,Fashion,Skirt,1,4000,C014,Search,Basic
+14,2023-02-12,18,Electronics,Headphones,1,15000,C015,Referral,Premium
+15,2023-02-15,33,Food,Dried Fruit,3,3000,C016,Social Media,Free
+16,2023-03-20,23,Fashion,Sneakers,1,18000,C148,Search,Premium
+17,2023-03-25,25,Beauty,Perfume,3,15000,C149,Social Media,Basic
+18,2023-03-28,5,Home Decor,Wall Art,2,12000,C150,Referral,Free
+19,2023-01-05,25,Fashion,Ankara Dress,2,8000,C001,Social Media,Basic
+20,2023-01-10,40,Fashion,Men's T-shirt,1,3500,C002,Search,Basic
+21,2023-01-12,7,Electronics,Smartphone,1,120000,C003,Referral,Premium
+22,2023-01-15,1,Food,Plantain Chips,5,2500,C004,Social Media,Free
+23,2023-01-18,29,Beauty,Lipstick,3,4500,C005,Search,Basic
+24,2023-01-20,34,Home Decor,Throw Pillows,2,5000,C006,Referral,Premium
+25,2023-01-22,48,Books,Novel,1,1500,C007,Social Media,Free
+26,2023-01-25,3,Fashion,Jeans,1,7000,C008,Search,Basic
+27,2023-01-28,40,Electronics,Bluetooth Speaker,1,10000,C009,Referral,Premium
+28,2023-01-30,9,Food,Coffee Beans,1,2000,C010,Social Media,Free
+29,2023-02-02,47,Beauty,Face Cream,2,6000,C011,Search,Basic
+30,2023-02-05,32,Home Decor,Wall Art,1,8000,C012,Referral,Premium
+31,2023-02-08,10,Books,Cookbook,1,2500,C013,Social Media,Free
+32,2023-02-10,24,Fashion,Skirt,1,4000,C014,Search,Basic
+33,2023-02-12,8,Electronics,Headphones,1,15000,C015,Referral,Premium
+34,2023-02-15,12,Food,Dried Fruit,3,3000,C016,Social Media,Free
+35,2023-03-20,11,Fashion,Sneakers,1,18000,C148,Search,Premium
+36,2023-03-25,28,Beauty,Perfume,3,15000,C149,Social Media,Basic
+37,2023-03-28,17,Home Decor,Wall Art,2,12000,C150,Referral,Free
+38,2023-02-15,2,Food,Dried Fruit,3,3000,C016,Social Media,Free
+39,2023-03-20,17,Fashion,Sneakers,1,18000,C148,Search,Premium
+40,2023-03-25,21,Beauty,Perfume,3,15000,C149,Social Media,Basic
+41,2023-03-28,43,Home Decor,Wall Art,2,12000,C150,Referral,Free
+42,2023-01-05,16,Fashion,Ankara Dress,2,8000,C001,Social Media,Basic
+43,2023-01-10,44,Fashion,Men's T-shirt,1,3500,C002,Search,Basic
+44,2023-01-12,12,Electronics,Smartphone,1,120000,C003,Referral,Premium
+45,2023-01-15,27,Food,Plantain Chips,5,2500,C004,Social Media,Free
+46,2023-01-18,50,Beauty,Lipstick,3,4500,C005,Search,Basic
+47,2023-01-20,23,Home Decor,Throw Pillows,2,5000,C006,Referral,Premium
+48,2023-01-22,17,Books,Novel,1,1500,C007,Social Media,Free
+49,2023-01-25,22,Fashion,Jeans,1,7000,C008,Search,Basic
+50,2023-01-28,41,Electronics,Bluetooth Speaker,1,10000,C009,Referral,Premium
+51,2023-01-30,36,Food,Coffee Beans,1,2000,C010,Social Media,Free
+52,2023-02-02,7,Beauty,Face Cream,2,6000,C011,Search,Basic
+53,2023-02-05,5,Home Decor,Wall Art,1,8000,C012,Referral,Premium
+54,2023-02-08,17,Books,Cookbook,1,2500,C013,Social Media,Free
+55,2023-02-10,25,Fashion,Skirt,1,4000,C014,Search,Basic
+56,2023-02-12,35,Electronics,Headphones,1,15000,C015,Referral,Premium
+57,2023-02-15,12,Food,Dried Fruit,3,3000,C016,Social Media,Free
+58,2023-03-20,24,Fashion,Sneakers,1,18000,C148,Search,Premium
+59,2023-03-25,39,Beauty,Perfume,3,15000,C149,Social Media,Basic
+60,2023-03-28,10,Home Decor,Wall Art,2,12000,C150,Referral,Free
+61,2023-02-15,42,Food,Dried Fruit,3,3000,C016,Social Media,Free
+62,2023-03-20,32,Fashion,Sneakers,1,18000,C148,Search,Premium
+63,2023-03-25,27,Beauty,Perfume,3,15000,C149,Social Media,Basic
+64,2023-03-28,7,Home Decor,Wall Art,2,12000,C150,Referral,Free
+65,2023-01-05,37,Fashion,Ankara Dress,2,8000,C001,Social Media,Basic
+66,2023-01-10,38,Fashion,Men's T-shirt,1,3500,C002,Search,Basic
+67,2023-01-12,46,Electronics,Smartphone,1,120000,C003,Referral,Premium
+68,2023-01-15,4,Food,Plantain Chips,5,2500,C004,Social Media,Free
+69,2023-01-18,8,Beauty,Lipstick,3,4500,C005,Search,Basic
+70,2023-01-20,6,Home Decor,Throw Pillows,2,5000,C006,Referral,Premium
+71,2023-01-22,17,Books,Novel,1,1500,C007,Social Media,Free
+72,2023-01-25,42,Fashion,Jeans,1,7000,C008,Search,Basic
+73,2023-01-28,23,Electronics,Bluetooth Speaker,1,10000,C009,Referral,Premium
+74,2023-01-30,35,Food,Coffee Beans,1,2000,C010,Social Media,Free
+75,2023-02-02,42,Beauty,Face Cream,2,6000,C011,Search,Basic
+76,2023-02-05,3,Home Decor,Wall Art,1,8000,C012,Referral,Premium
+77,2023-02-08,38,Books,Cookbook,1,2500,C013,Social Media,Free
+78,2023-02-10,36,Fashion,Skirt,1,4000,C014,Search,Basic
+79,2023-02-12,24,Electronics,Headphones,1,15000,C015,Referral,Premium
+80,2023-02-15,25,Food,Dried Fruit,3,3000,C016,Social Media,Free
+81,2023-03-20,28,Fashion,Sneakers,1,18000,C148,Search,Premium
+82,2023-03-25,35,Beauty,Perfume,3,15000,C149,Social Media,Basic
+83,2023-03-28,27,Home Decor,Wall Art,2,12000,C150,Referral,Free
+84,2023-02-15,44,Food,Dried Fruit,3,3000,C016,Social Media,Free
+85,2023-03-20,43,Fashion,Sneakers,1,18000,C148,Search,Premium
+86,2023-03-25,38,Beauty,Perfume,3,15000,C149,Social Media,Basic
+87,2023-03-28,44,Home Decor,Wall Art,2,12000,C150,Referral,Free
+88,2023-01-05,28,Fashion,Ankara Dress,2,8000,C001,Social Media,Basic
+89,2023-01-10,29,Fashion,Men's T-shirt,1,3500,C002,Search,Basic
+90,2023-01-12,39,Electronics,Smartphone,1,120000,C003,Referral,Premium
+91,2023-01-15,21,Food,Plantain Chips,5,2500,C004,Social Media,Free
+92,2023-01-18,4,Beauty,Lipstick,3,4500,C005,Search,Basic
+93,2023-01-20,35,Home Decor,Throw Pillows,2,5000,C006,Referral,Premium
+94,2023-01-22,5,Books,Novel,1,1500,C007,Social Media,Free
+95,2023-01-25,45,Fashion,Jeans,1,7000,C008,Search,Basic
+96,2023-01-28,39,Electronics,Bluetooth Speaker,1,10000,C009,Referral,Premium
+97,2023-01-30,4,Food,Coffee Beans,1,2000,C010,Social Media,Free
+98,2023-02-02,1,Beauty,Face Cream,2,6000,C011,Search,Basic
+99,2023-02-05,13,Home Decor,Wall Art,1,8000,C012,Referral,Premium
+100,2023-02-08,16,Books,Cookbook,1,2500,C013,Social Media,Free
+101,2023-02-10,38,Fashion,Skirt,1,4000,C014,Search,Basic
+102,2023-02-12,32,Electronics,Headphones,1,15000,C015,Referral,Premium
+103,2023-02-15,8,Food,Dried Fruit,3,3000,C016,Social Media,Free
+104,2023-03-20,6,Fashion,Sneakers,1,18000,C148,Search,Premium
+105,2023-03-25,12,Beauty,Perfume,3,15000,C149,Social Media,Basic
+106,2023-03-28,31,Home Decor,Wall Art,2,12000,C150,Referral,Free
